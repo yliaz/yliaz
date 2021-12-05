@@ -1,16 +1,28 @@
 ##  Hi~，I'm Barry Zhu. 👋
 
-I'm a frontend engineer from china 🇨🇳, dedicated to becoming a fullstack engineer.
+I'm a passionate web developer from china 🇨🇳. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yliaz)
 
-## 技能
+## Something about me
 
-## Github 统计数据
+- I'm currently working on my [blog website](https://zhuye.dev)
+- 📚 I'm currently learning about three.js.
+- Reach me at: zhuye256@163.com
+- 
 
-![zhuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=yliaz&count_private=true&show_icons=true&locale=cn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yliaz&layout=compact&locale=cn)
+## Languages and tools
+
+
+
+## Github Stats
+
+![zhuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=yliaz&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yliaz&layout=compact)
 
 ### 最新博客(每日0点自动更新)
 <!-- BLOG-POST-LIST:START -->
@@ -23,3 +35,7 @@ I'm a frontend engineer from china 🇨🇳, dedicated to becoming a fullstack e
 ### 掘金
 <!-- JUEJIN:START -->
 <!-- JUEJIN:END -->
+
+### 语雀
+<!-- YUQUE:START -->
+<!-- YUQUE:END -->
