@@ -29,3 +29,8 @@ jobs:
         with:
           comment_tag_name: "YUQUE"
           feed_list: "https://rsshub.app/yuque/doc/777212"
+      - name: Pull in bilibili
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BILIBILI"
+          feed_list: "https://rsshub.app/bilibili/user/video/325194728"
