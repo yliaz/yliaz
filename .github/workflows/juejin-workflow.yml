@@ -19,4 +19,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "JUEJIN"
-          feed_list: "https://zhuye.dev/blog/rss.xml"
+          feed_list: "https://rsshub.app/juejin/posts/7038000911511191565"
