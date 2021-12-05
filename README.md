@@ -1,16 +1,16 @@
-###  Hi~，我是朱烨 👋
+##  Hi~，I'm Barry Zhu. 👋
 
-95后，男生，老家铁岭，现居杭州
+I'm a frontend engineer from china 🇨🇳, dedicated to becoming a fullstack engineer.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yliaz)
 
-### 技能
-<img align="left" alt="HTML5" width="26px" src="https://zhuye-1308301598.file.myqcloud.com/icons/html.png" />
+## 技能
 
+## Github 统计数据
 
-[![zhuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=yliaz&count_private=true&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+![zhuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=yliaz&count_private=true&show_icons=true&locale=cn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yliaz&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yliaz&layout=compact&locale=cn)
 
 ### 最新博客(每日0点自动更新)
 <!-- BLOG-POST-LIST:START -->
@@ -19,3 +19,7 @@
 ### 最新视频(每日0点自动更新)
 <!-- BILIBILI:START -->
 <!-- BILIBILI:END -->
+
+### 掘金
+<!-- JUEJIN:START -->
+<!-- JUEJIN:END -->
