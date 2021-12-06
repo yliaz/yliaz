@@ -11,7 +11,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - I'm currently working on my [blog website](https://zhuye.dev)
 - 📚 I'm currently learning about three.js.
 - Reach me at: zhuye256@163.com
-- 
 
 
 ## Languages and tools
@@ -20,9 +19,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ## Github Stats
 
-![zhuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=yliaz&count_private=true&show_icons=true)
+![zhuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=yliaz&count_private=true&show_icons=true&locale=cn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yliaz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yliaz&layout=compact&locale=cn)
 
 ### 最新博客(每日0点自动更新)
 <!-- BLOG-POST-LIST:START -->
