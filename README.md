@@ -30,11 +30,3 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 ### 最新视频(每日0点自动更新)
 <!-- BILIBILI:START -->
 <!-- BILIBILI:END -->
-
-### 掘金
-<!-- JUEJIN:START -->
-<!-- JUEJIN:END -->
-
-### 语雀
-<!-- YUQUE:START -->
-<!-- YUQUE:END -->

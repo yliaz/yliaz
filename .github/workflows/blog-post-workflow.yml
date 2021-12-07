@@ -19,16 +19,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://zhuye.dev/blog/rss.xml"
-      - name: Pull in juejin posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "JUEJIN"
-          feed_list: "https://rsshub.app/juejin/posts/2911162522934215"
-      - name: Pull in yuque posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "YUQUE"
-          feed_list: "https://rsshub.app/yuque/doc/777212"
       - name: Pull in bilibili
         uses: gautamkrishnar/blog-post-workflow@master
         with:
