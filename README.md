@@ -70,14 +70,14 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yliaz&layout=compact)
 
-### 最新博客(每日0点自动更新)
+## 最新博客(每日0点自动更新)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### 最新翻译(每日0点自动更新)
+## 最新翻译(每日0点自动更新)
 <!-- TRANSLATION:START -->
 <!-- TRANSLATION:END -->
 
-### 最新视频(每日0点自动更新)
+## 最新视频(每日0点自动更新)
 <!-- BILIBILI:START -->
 <!-- BILIBILI:END -->
