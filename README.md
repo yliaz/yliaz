@@ -4,9 +4,9 @@
 
 <img align="right" alt="Visual Studio Code" width="200px" src="./images/a-joke.png" />
 
-I'm a passionate web developer from china 🇨🇳. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. <img alt="hi" src="./images/coding.gif" width="26px" />
+I'm a passionate web developer from china 🇨🇳. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. <img alt="hi" src="./images/coding.gif" width="24px" />
 
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. <img alt="hi" src="./images/mario.gif" width="26px" />
+I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. <img alt="hi" src="./images/github.gif" width="16px" />
 
 ## Something about me
 
