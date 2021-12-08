@@ -1,4 +1,4 @@
-##  Hi~，I'm Barry Zhu. <img alt="hi" src="./images/hi.gif" width="30px" />
+##  Hi~，I'm Barry Zhu. <img alt="hi" src="./images/Hi.gif" width="30px" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yliaz)
 
