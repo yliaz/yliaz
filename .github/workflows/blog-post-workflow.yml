@@ -5,7 +5,7 @@ on:
       # master分支，你也可以改成其他分支
       - master
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 0 * * *' # Runs every day, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   
 jobs:
@@ -15,10 +15,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in zhuye.dev posts
+      - name: Pull in zhuye.dev blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://zhuye.dev/blog/rss.xml"
+      - name: Pull in zhuye.dev translation posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "TRANSLATION"
+          feed_list: "http://zhuye.dev/translation/rss.xml"
       - name: Pull in bilibili
         uses: gautamkrishnar/blog-post-workflow@master
         with:
