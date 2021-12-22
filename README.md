@@ -43,8 +43,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <img alt="markdown" src="https://img.shields.io/badge/Markdown-121011?style=flat-square&logo=markdown&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-<img alt="sketch" src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch
-&logoColor=white" />
+<img alt="sketch" src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white" />
 
 </p>
 
