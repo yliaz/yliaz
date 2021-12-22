@@ -28,4 +28,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BILIBILI"
-          feed_list: "https://rsshub.app/bilibili/user/video/325194728"
+          feed_list: "https://rsshub.app/bilibili/user/video/2001085527"

@@ -42,9 +42,11 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="markdown" src="https://img.shields.io/badge/Markdown-121011?style=flat-square&logo=markdown&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="github" src="https://img.shields.io/badge/Github-24292F?style=flat-square&logo=github&logoColor=white" />
-<img alt="MacbookPro" src="https://img.shields.io/badge/Macbook_Pro_M1-999999?style=flat-square&logo=apple&logoColor=white" />
-<img alt="NintendoSwitch" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat-square&logo=nintendo-switch&logoColor=white" />
+<img alt="notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion
+&logoColor=white" />
+<img alt="sketch" src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch
+&logoColor=white" />
+
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yliaz&layout=compact)
@@ -67,18 +69,36 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
+## Where to find me
+
+<p>
+<img alt="Zhihu" src="https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white" />
+<img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" />
+<img alt="Douban" src="https://img.shields.io/badge/Douban-007722?style=flat-square&logo=douban&logoColor=white" />
+<img alt="Wechat" src="https://img.shields.io/badge/Wechat-07C160?style=flat-square&logo=wechat&logoColor=white" />
+<img alt="github" src="https://img.shields.io/badge/Github-24292F?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+## My Gears
+
+<p>
+<img alt="MacbookPro" src="https://img.shields.io/badge/Macbook_Pro_M1-999999?style=flat-square&logo=apple&logoColor=white" />
+<img alt="NintendoSwitch" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat-square&logo=nintendo-switch&logoColor=white" />
+</p>
+
+
 ## Github Stats
 
 ![zhuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=yliaz&count_private=true&show_icons=true)
 
-## 最新博客(每日0点自动更新)
+## Newest Blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## 最新翻译(每日0点自动更新)
+## Newest Translations
 <!-- TRANSLATION:START -->
 <!-- TRANSLATION:END -->
 
-## 最新视频(每日0点自动更新)
+## Newest Videos
 <!-- BILIBILI:START -->
 <!-- BILIBILI:END -->
