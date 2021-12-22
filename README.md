@@ -42,8 +42,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="markdown" src="https://img.shields.io/badge/Markdown-121011?style=flat-square&logo=markdown&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion
-&logoColor=white" />
+<img alt="notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 <img alt="sketch" src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch
 &logoColor=white" />
 
@@ -72,11 +71,14 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 ## Where to find me
 
 <p>
-<img alt="Zhihu" src="https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white" />
-<img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" />
+<a href="https://space.bilibili.com/2001085527"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a>
+<a href="https://www.douban.com/people/82986846/">
 <img alt="Douban" src="https://img.shields.io/badge/Douban-007722?style=flat-square&logo=douban&logoColor=white" />
+</a>
+<a href="https://zhuye-1308301598.file.myqcloud.com/zhuye.png">
 <img alt="Wechat" src="https://img.shields.io/badge/Wechat-07C160?style=flat-square&logo=wechat&logoColor=white" />
-<img alt="github" src="https://img.shields.io/badge/Github-24292F?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/yliaz"><img alt="github" src="https://img.shields.io/badge/Github-24292F?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ## My Gears
