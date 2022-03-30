@@ -90,6 +90,10 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ## Newest Translations
 <!-- TRANSLATION:START -->
+- [【译】20个JS简写小技巧，助你高效敲代码](https://zhuye.dev/translation/01-js-shorthand)
+- [【译】6个你应该知道的实用CSS小技巧](https://zhuye.dev/translation/02-css-tricks)
+- [【译】还在用console.log&lpar;&rpar; ？你out了！](https://zhuye.dev/translation/03-console-log)
+- [【译】我解决了一个看似非常愚蠢的JS问题](https://zhuye.dev/translation/04-operator-precedence-problem)
 <!-- TRANSLATION:END -->
 
 ## Newest Videos
