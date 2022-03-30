@@ -81,6 +81,11 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ## Newest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [前端使用 WebAssembly 运行 Kociemba 算法](https://zhuye.dev/blog/2021/12/12/emscripten-kociemba)
+- [自制一个 Docker 镜像](https://zhuye.dev/blog/2021/10/11/create-dockerfile)
+- [一道谷歌面试题引发的思考](https://zhuye.dev/blog/2021/04/12/event-loop-example)
+- [6个问题理解 JS 原型和原型链](https://zhuye.dev/blog/2021/03/21/js-prototype)
+- [Mac 终端科学上网](https://zhuye.dev/blog/2020/12/09/shell-climb-wall)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newest Translations
