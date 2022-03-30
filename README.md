@@ -14,9 +14,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 🖊 I'm participarting in the translation of the new version of React documentation.
 - 📚 I'm currently learning three.js.
 - ✌️  2021 Goals: Contribute more to Open Source projects.
-- ✉️  Reach me at: zhuye256@163.com.
+- ✉️  Reach me at: zhuyestu@gmail.com.
 
-## Languages and tools
+## 🔧 Languages and tools
 
 <!-- 标签版本 -->
 
@@ -47,7 +47,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yliaz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yliaz&layout=compact&locale=cn)
 
 <!-- 纯图标版本 -->
 
@@ -66,19 +66,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
-
-## Where to find me
-
-<p>
-<a href="https://space.bilibili.com/2001085527"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a>
-<a href="https://www.douban.com/people/82986846/">
-<img alt="Douban" src="https://img.shields.io/badge/Douban-007722?style=flat-square&logo=douban&logoColor=white" />
-</a>
-<a href="https://zhuye-1308301598.file.myqcloud.com/zhuye.png">
-<img alt="Wechat" src="https://img.shields.io/badge/Wechat-07C160?style=flat-square&logo=wechat&logoColor=white" />
-</a>
-<a href="https://github.com/yliaz"><img alt="github" src="https://img.shields.io/badge/Github-24292F?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
 
 ## My Gears
 
