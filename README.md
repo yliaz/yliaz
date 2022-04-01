@@ -98,6 +98,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ## Newest Videos
 <!-- BILIBILI:START -->
+- [【中英双语】《Mozilla 简史》The Mozilla Story](https://www.bilibili.com/video/BV1Ya411476m)
 - [《硅谷牛仔》 Silicon Cowboys](https://www.bilibili.com/video/BV1hM4y1c7zS)
 - [《走近 Ada，计算学的伯爵夫人》Calculating Ada - The Countess Of Computing](https://www.bilibili.com/video/BV16L4y1J7b2)
 <!-- BILIBILI:END -->
