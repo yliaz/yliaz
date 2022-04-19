@@ -13,7 +13,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 👨‍💻 I'm currently working on my [blog website](https://zhuye.dev), check it out!
 - 🖊 I'm participarting in the translation of the new version of React documentation.
 - 📚 I'm currently learning three.js.
-- ✌️  2021 Goals: Contribute more to Open Source projects.
+- ✌️  2022 Goals: Contribute more to Open Source projects.
 - ✉️  Reach me at: zhuyestu@gmail.com.
 
 ## 🔧 Languages and tools
@@ -96,7 +96,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - [【译】我解决了一个看似非常愚蠢的JS问题](https://zhuye.dev/translation/04-operator-precedence-problem)
 <!-- TRANSLATION:END -->
 
-## Newest Videos
+## Newest Translated Videos
 <!-- BILIBILI:START -->
 - [【双语字幕】如何实现真正的人工智能 How to Build Truly Intelligent AI](https://www.bilibili.com/video/BV1Ji4y1S7dQ)
 - [【双语字幕】《什么是图灵完备？》Turing Completeness - computerphile](https://www.bilibili.com/video/BV18L4y15786)
