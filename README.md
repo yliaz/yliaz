@@ -98,9 +98,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ## Newest Translated Videos
 <!-- BILIBILI:START -->
+- [【双语字幕】微软带货第一人 Windows 1.0 with Steve Ballmer](https://www.bilibili.com/video/BV1M3411M75Y)
+- [【双语字幕】世界上第一位程序员：爱达·勒芙蕾丝 The First Computer Programmer: Ada Lovelace](https://www.bilibili.com/video/BV1kF411M7oq)
 - [Windows 11 宣传片，但是是 Win95 复刻版](https://www.bilibili.com/video/BV1XS4y1A7QQ)
-- [【双语字幕】【高清修复】微软带货第一人 Windows 1.0 with Steve Ballmer](https://www.bilibili.com/video/BV12T4y1a7qo)
 - [【双语字幕】如何实现真正的人工智能 How to Build Truly Intelligent AI](https://www.bilibili.com/video/BV1Ji4y1S7dQ)
 - [【双语字幕】什么是图灵完备？ Turing Completeness](https://www.bilibili.com/video/BV18L4y15786)
-- [【中英双语】《吐槽 JavaScript 之歌》Bug In The JavaScript](https://www.bilibili.com/video/BV1Pi4y1D7v8)
 <!-- BILIBILI:END -->
