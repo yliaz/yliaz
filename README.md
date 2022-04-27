@@ -12,7 +12,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 - 👨‍💻 I'm currently working on my [blog website](https://zhuye.dev), check it out!
 - 🖊 I'm participarting in the translation of the new version of React documentation.
-- 📚 I'm currently learning three.js.
+- 📚 I'm currently learning [three.js](https://threejs.org/).
 - ✌️  2022 Goals: Contribute more to Open Source projects.
 - ✉️  Reach me at: zhuyestu@gmail.com.
 
