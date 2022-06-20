@@ -90,4 +90,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ## Newest Translated Videos
 <!-- BILIBILI:START -->
+- [【双语字幕】Babylon.js 5.0 正式发布，带来诸多优化](https://www.bilibili.com/video/BV15Y411u7Jw)
+- [【双语字幕】图灵和停机问题 Turing &amp; The Halting Problem](https://www.bilibili.com/video/BV1TT4y1k7Yn)
+- [世界首富，也爱《本草纲目》](https://www.bilibili.com/video/BV1ni4y1m7A3)
+- [【双语字幕】什么是图灵机？Turing Machines Explained](https://www.bilibili.com/video/BV1VS4y1a7JD)
+- [【高清修复】【双语字幕】微软带货第一人 Windows 1.0 with Steve Ballmer](https://www.bilibili.com/video/BV1M3411M75Y)
 <!-- BILIBILI:END -->
