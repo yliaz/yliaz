@@ -81,26 +81,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ## Newest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [抽丝剥茧说闭包](https://zhuye.dev/blog/2022--3-29-see-beyond-closure)
-- [前端使用 WebAssembly 运行 Kociemba 算法](https://zhuye.dev/blog/2021/12/12/emscripten-kociemba)
-- [利用 GitHub Actions 实现自动部署](https://zhuye.dev/blog/2021/11/30/auto-deploy-using-github-actions)
-- [自制一个 Docker 镜像](https://zhuye.dev/blog/2021/10/11/create-dockerfile)
-- [一道谷歌面试题引发的思考](https://zhuye.dev/blog/2021/04/12/event-loop-example)
 <!-- BLOG-POST-LIST:END -->
-
-## Newest Translations
-<!-- TRANSLATION:START -->
-- [【译】20个JS简写小技巧，助你高效敲代码](https://zhuye.dev/translation/01-js-shorthand)
-- [【译】6个你应该知道的实用CSS小技巧](https://zhuye.dev/translation/02-css-tricks)
-- [【译】还在用console.log&lpar;&rpar; ？你out了！](https://zhuye.dev/translation/03-console-log)
-- [【译】我解决了一个看似非常愚蠢的JS问题](https://zhuye.dev/translation/04-operator-precedence-problem)
-<!-- TRANSLATION:END -->
 
 ## Newest Translated Videos
 <!-- BILIBILI:START -->
-- [【双语字幕】图灵和停机问题 Turing &amp; The Halting Problem](https://www.bilibili.com/video/BV1TT4y1k7Yn)
-- [世界首富，也爱《本草纲目》](https://www.bilibili.com/video/BV1ni4y1m7A3)
-- [【双语字幕】什么是图灵机？Turing Machines Explained](https://www.bilibili.com/video/BV1VS4y1a7JD)
-- [【高清修复】【双语字幕】微软带货第一人 Windows 1.0 with Steve Ballmer](https://www.bilibili.com/video/BV1M3411M75Y)
-- [【双语字幕】世界上第一位程序员：爱达·勒芙蕾丝 The First Computer Programmer: Ada Lovelace](https://www.bilibili.com/video/BV1kF411M7oq)
 <!-- BILIBILI:END -->
