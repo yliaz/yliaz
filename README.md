@@ -81,6 +81,11 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ## Newest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [vue3 + vite2 + ts 脚手架搭建](https://zhuye.dev/blogs/2022-05-26-vue3-template.html)
+- [测试](https://zhuye.dev/reading-notes/example-06.html)
+- [206. 反转链表](https://zhuye.dev/leetcode/02-linked-list/02-others/0206-reverse-linked-list.html)
+- [160. 相交链表](https://zhuye.dev/leetcode/02-linked-list/02-others/0160-intersection-of-two-linked-lists.html)
+- [24. 两两交换链表中的节点](https://zhuye.dev/leetcode/02-linked-list/02-others/0024-swap-nodes-in-pairs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newest Translated Videos
