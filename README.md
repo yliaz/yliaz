@@ -81,11 +81,11 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ## Newest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [vue3 + vite2 + ts 脚手架搭建](https://zhuye.dev/blogs/2022-05-26-vue3-template.html)
-- [测试](https://zhuye.dev/reading-notes/example-06.html)
-- [206. 反转链表](https://zhuye.dev/leetcode/02-linked-list/02-others/0206-reverse-linked-list.html)
-- [160. 相交链表](https://zhuye.dev/leetcode/02-linked-list/02-others/0160-intersection-of-two-linked-lists.html)
-- [24. 两两交换链表中的节点](https://zhuye.dev/leetcode/02-linked-list/02-others/0024-swap-nodes-in-pairs.html)
+- [5行CSS实现&amp;lt;span&amp;gt;内文字单行水平居中多行靠左](https://zhuye.dev/blogs/2020-07-01-a-css-trick.html)
+- [动手实现数据响应式 Demo](https://zhuye.dev/blogs/2020-06-30-build-reactivity-system.html)
+- [JavaScript 数组去重的n种方法](https://zhuye.dev/blogs/2020-06-29-js-unique-function.html)
+- [JavaScript 昨天、今天和明天](https://zhuye.dev/blogs/2020-06-28-introduce-javascript.html)
+- [从LHS和RHS角度理解作用域](https://zhuye.dev/blogs/2020-04-26-lhs-rhs-field.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Newest Translated Videos
